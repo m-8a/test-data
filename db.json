@@ -4,20 +4,23 @@
       "id": 1,
       "name": "Jonathan Rosique",
       "email": "rosiquito@rossi.com",
-      "topic": "Events"
+      "topic": "Events",
+      "thisweek": 2    
     },
     {
       "id": 2,
       "name": "Miguel Ochoa",
       "email": "chipo@algo.tv",
-      "topic": "Sync Issues"
+      "topic": "Sync Issues",
+      "thisweek": 4
 	   
     },
     {
       "id": 3,
       "name": "Daniella Perez",
       "email": "dany@something.org",
-      "topic": "Meetings"
+      "topic": "Meetings",
+      "thisweek": 20
     }
   ],
   "expertise": [
