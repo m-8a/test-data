@@ -3,18 +3,21 @@
     {
       "id": 1,
       "name": "Jonathan Rosique",
-	  "email": "Sincere@april.biz"
+      "email": "rosiquito@rossi.com",
+      "topic": "Events"
     },
     {
       "id": 2,
       "name": "Miguel Ochoa",
-	  "email": "Shanna@melissa.tv"
+      "email": "chipo@algo.tv",
+      "topic": "Sync Issues"
 	   
     },
     {
       "id": 3,
       "name": "Daniella Perez",
-	  "email": "Julianne.OConner@kory.org"
+      "email": "dany@something.org",
+      "topic": "Meetings"
     }
   ],
   "expertise": [
