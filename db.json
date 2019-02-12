@@ -22,20 +22,5 @@
       "topic": "Meetings",
       "thisweek": 20
     }
-  ],
-  "expertise": [
-    {
-      "id": 1,
-      "topic": "Events",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "topic": "Sync"
-    },
-	{
-      "id": 2,
-      "topic": "Calls"    
-    }
   ]
 }
